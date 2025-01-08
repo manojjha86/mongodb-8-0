@@ -1,0 +1,47 @@
+[
+  {
+    "order_date": "2023-11-15",
+    "customer_id": ObjectId('673878b26da0b5c52f86b03d'),
+    "products": [ 
+      ObjectId('673b5f9471bf64a76286b01d'), 
+      ObjectId('673b5f9471bf64a76286b01e'), 
+      ObjectId('673b5f9471bf64a76286b01f')
+    ]
+  },
+  {
+    "order_date": "2023-12-02",
+    "customer_id":  ObjectId('673878b26da0b5c52f86b03d'),
+    "products": [ 
+      ObjectId('673b5f9471bf64a76286b01d')
+    ]
+  },
+  {
+    "order_date": "2023-12-10",
+    "customer_id":  ObjectId('673878b26da0b5c52f86b03e'),
+    "products": [
+      ObjectId('673b5f9471bf64a76286b01f'), 
+      ObjectId('673b5f9471bf64a76286b020'),  
+      ObjectId('673b5f9471bf64a76286b021'), 
+      ObjectId('673b5f9471bf64a76286b022')
+    ]
+  },
+  {
+    "order_date": "2023-12-25",
+    "customer_id":  ObjectId('673878b26da0b5c52f86b03e'),
+    "products": [ 
+      ObjectId('673b5f9471bf64a76286b01f'), 
+      ObjectId('673b5f9471bf64a76286b020')
+    ]
+  },
+  {
+    "order_date": "2024-01-05",
+    "customer_id":  ObjectId('673878b26da0b5c52f86b03e'),
+    "products": [
+      ObjectId('673b5f9471bf64a76286b021'), 
+      ObjectId('673b5f9471bf64a76286b022'),  
+      ObjectId('673b5f9471bf64a76286b025'), 
+      ObjectId('673b5f9471bf64a76286b029'), 
+      ObjectId('673b5f9471bf64a76286b02a')
+    ]
+  }
+]

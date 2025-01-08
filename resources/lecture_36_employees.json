@@ -1,0 +1,47 @@
+[
+    {
+      "name": "John Doe",
+      "age": 32,
+      "skills": [
+        {"name": "tester", "level": 6},
+        {"name": "designer", "level": 3}
+      ],
+      "hobbies": ["sports", "music"]
+    },
+    {
+      "name": "Jane Smith",
+      "age": 28,
+      "skills": [
+        {"name": "developer", "level": 7},
+        {"name": "tester", "level": 5}
+      ],
+      "hobbies": ["cooking", "music"]
+    },
+    {
+      "name": "Michael Johnson",
+      "age": 35,
+      "skills": [
+        {"name": "developer", "level": 5},
+        {"name": "designer", "level": 2}
+      ],
+      "hobbies": ["sports", "movies"]
+    },
+    {
+      "name": "Merry Smith",
+      "age": 32,
+      "skills": [
+        {"name": "developer", "level": 6},
+        {"name": "tester", "level": 8}
+      ],
+      "hobbies": ["music", "cooking"]
+    },
+    {
+      "name": "John SMith",
+      "age": 32,
+      "skills": [
+        {"name": "developer", "level": 6},
+        {"name": "tester", "level": 8}
+      ],
+      "hobbies": ["sports", "music", "cooking"]
+    }
+]

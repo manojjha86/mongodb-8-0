@@ -1,0 +1,245 @@
+[
+    {
+        "name": "Logitech G Pro X Superlight",
+        "brand": "Logitech",
+        "price": 149,
+        "details": {
+            "model": "950-011111",
+            "color": "Black",
+            "release_year": 2020
+        },
+        "category": ["electronics", "gaming"],
+        "ratings": 6.7,
+        "discount": 15,
+        "available": true
+    },
+    {
+        "name": "Apple iPhone 14 Pro Max",
+        "brand": "Apple",
+        "price": 1099,
+        "details": {
+            "model": "A2892",
+            "color": "Space Black",
+            "release_year": 2022
+        },
+        "category": ["electronics", "mobile"],
+        "ratings": 8.2,
+        "available": true
+    },
+    {
+        "name": "Samsung Galaxy S23 Ultra",
+        "brand": "Samsung",
+        "price": 1199,
+        "details": {
+            "model": "SM-S918U",
+            "color": "Phantom Black",
+            "release_year": 2023
+        },
+        "category": ["electronics", "mobile"],
+        "ratings": 7.9,
+        "discount": 10,
+        "available": "true"
+    },
+    {
+        "name": "Sony PlayStation 5",
+        "brand": "Sony",
+        "price": 499,
+        "details": {
+            "model": "CFI-1116A",
+            "color": "White",
+            "release_year": 2020
+        },
+        "category": ["electronics", "gaming"],
+        "ratings": 8.5,
+        "available": false
+    },
+    {
+        "name": "Microsoft Xbox Series X",
+        "brand": "Microsoft",
+        "price": 499,
+        "details": {
+            "model": "1981",
+            "color": "Black",
+            "release_year": 2020
+        },
+        "category": ["electronics", "gaming"],
+        "ratings": 8.3,
+        "discount": 10,
+        "available": true
+    },
+    {
+        "name": "Dell XPS 13",
+        "brand": "Dell",
+        "price": 1299,
+        "details": {
+            "model": "9315",
+            "color": "Platinum Silver",
+            "release_year": 2022
+        },
+        "category": ["electronics", "laptop"],
+        "ratings": 8.8,
+        "available": true
+    },
+    {
+        "name": "Apple MacBook Pro 14",
+        "brand": "Apple",
+        "price": 1999,
+        "details": {
+            "model": "MYTR3LL/A",
+            "color": "Space Gray",
+            "release_year": 2021
+        },
+        "category": ["electronics", "laptop"],
+        "ratings": 9.1,
+        "discount": 15,
+        "available": true
+    },
+    {
+        "name": "Samsung Galaxy Watch 5",
+        "brand": "Samsung",
+        "price": 279,
+        "details": {
+            "model": "SM-R900NZSA",
+            "color": "Graphite",
+            "release_year": 2022
+        },
+        "category": ["electronics", "wearable"],
+        "ratings": 7.5,
+        "available": true
+    },
+    {
+        "name": "Apple Watch Series 8",
+        "brand": "Apple",
+        "price": 399,
+        "details": {
+            "model": "A2892",
+            "color": "Midnight",
+            "release_year": 2022
+        },
+        "category": ["electronics", "wearable"],
+        "ratings": 8.0,
+        "discount": 10,
+        "available": true
+    },
+    {
+        "name": "Sony WH-1000XM5",
+        "brand": "Sony",
+        "price": 399,
+        "details": {
+            "model": "WH-1000XM5",
+            "color": "Black",
+            "release_year": 2022
+        },
+        "category": ["electronics", "audio"],
+        "ratings": 9.2,
+        "available": true
+    },
+    {
+        "name": "Bose QuietComfort 45",
+        "brand": "Bose",
+        "price": 329,
+        "details": {
+            "model": "785075-0010",
+            "color": "Black",
+            "release_year": 2021
+        },
+        "category": ["electronics", "audio"],
+        "ratings": 8.7,
+        "discount": 15,
+        "available": true
+    },
+    {
+        "name": "LG OLED C2 Series",
+        "brand": "LG",
+        "price": 1299,
+        "details": {
+            "model": "OLED55C2PVA",
+            "color": "Black",
+            "release_year": 2022
+        },
+        "category": ["electronics", "tv"],
+        "ratings": 9.5,
+        "available": true
+    },
+    {
+        "name": "Samsung Neo QLED 8K",
+        "brand": "Samsung",
+        "price": 2999,
+        "details": {
+            "model": "QN900B",
+            "color": "Black",
+            "release_year": 2022
+        },
+        "category": ["electronics", "tv"],
+        "ratings": 9.3,
+        "discount": 20,
+        "available": true
+    },
+    {
+        "name": "Apple iPad Pro 12.9",
+        "brand": "Apple",
+        "price": 1099,
+        "details": {
+            "model": "M1 Chip",
+            "color": "Space Gray",
+            "release_year": 2021
+        },
+        "category": ["electronics", "tablet"],
+        "ratings": 9.0,
+        "available": true
+    },
+    {
+        "name": "Samsung Galaxy Tab S8 Ultra",
+        "brand": "Samsung",
+        "price": 1099,
+        "details": {
+            "model": "SM-X900",
+            "color": "Graphite",
+            "release_year": 2022
+        },
+        "category": ["electronics", "tablet"],
+        "ratings": 8.5,
+        "discount": 15,
+        "available": true
+    },
+    {
+        "name": "Dyson V15 Detect Absolute",
+        "brand": "Dyson",
+        "price": 799,
+        "details": {
+            "model": "SV15",
+            "color": "Nickel/Iron/Purple",
+            "release_year": 2022
+        },
+        "category": ["home appliance", "vacuum cleaner"],
+        "ratings": 8.8,
+        "available": true
+    },
+    {
+        "name": "iRobot Roomba j7+",
+        "brand": "iRobot",
+        "price": 899,
+        "details": {
+            "model": "4550",
+            "color": "Black",
+            "release_year": 2021
+        },
+        "category": ["home appliance", "robot vacuum"],
+        "ratings": 8.2,
+        "discount": 10,
+        "available": true
+    },
+    {
+        "name": "LG InstaView Door-in-Door Refrigerator",
+        "brand": "LG",
+        "price": 1999,
+        "details": {
+            "model": "LRFC2806S",
+            "color": "Stainless Steel",
+            "release_year": 2022
+        },
+        "category": ["home appliance", "refrigerator"],
+        "ratings": 8.6,
+        "available": true
+    }
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "iPhone 15 Pro Max",
+    "brand": "Apple",
+    "price": 1299,
+    "details": {
+      "model": "A2903",
+      "color": "Space Black",
+      "release_year": 2023
+    }
+  },
+  {
+    "name": "Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "price": 1199,
+    "details": {
+      "model": "SM-S92x",
+      "color": "Phantom Black",
+      "release_year": 2024
+    }
+  },
+  {
+    "name": "PlayStation 5",
+    "brand": "Sony",
+    "price": 499,
+    "details": {
+      "model": "CFI-1216B",
+      "color": "Black",
+      "release_year": 2020
+    }
+  },
+  {
+    "name": "MacBook Air M2",
+    "brand": "Apple",
+    "price": 999,
+    "details": {
+      "model": "MacBookAir11,8",
+      "color": "Midnight",
+      "release_year": 2022
+    }
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "brand": "Nintendo",
+    "price": 349,
+    "details": {
+      "model": "HAC-001(-01)",
+      "color": "White",
+      "release_year": 2021
+    }
+  },
+  {
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "price": 999,
+    "details": {
+      "model": "9320",
+      "color": "Platinum Silver",
+      "release_year": 2022
+    }
+  },
+  {
+    "name": "AirPods Pro (2nd Generation)",
+    "brand": "Apple",
+    "price": 249,
+    "details": {
+      "model": "MQD83AM/A",
+      "color": "White",
+      "release_year": 2022
+    }
+  },
+  {
+    "name": "Xbox Series X",
+    "brand": "Microsoft",
+    "price": 499,
+    "details": {
+      "model": "1908",
+      "color": "Black",
+      "release_year": 2020
+    }
+  },
+  {
+    "name": "Samsung Galaxy Watch 6 Classic",
+    "brand": "Samsung",
+    "price": 399,
+    "details": {
+      "model": "SM-R930",
+      "color": "Black",
+      "release_year": 2023
+    }
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "brand": "Google",
+    "price": 999,
+    "details": {
+      "model": "GP4BD",
+      "color": "Obsidian",
+      "release_year": 2023
+    }
+  },
+  {
+    "name": "iPad Pro (11-inch, 2022)",
+    "brand": "Apple",
+    "price": 799,
+    "details": {
+      "model": "J301",
+      "color": "Space Gray",
+      "release_year": 2022
+    }
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "price": 399,
+    "details": {
+      "model": "WH-1000XM5",
+      "color": "Black",
+      "release_year": 2022
+    }
+  },
+  {
+    "name": "Logitech G Pro X Superlight",
+    "brand": "Logitech",
+    "price": 149,
+    "details": {
+      "model": "950-011111",
+      "color": "Black",
+      "release_year": 2020
+    }
+  },
+  {
+    "name": "Amazon Echo Show 15",
+    "brand": "Amazon",
+    "price": 249,
+    "details": {
+      "model": "B0926Q7325",
+      "color": "Black",
+      "release_year": 2021
+    }
+  },
+  {
+    "name": "Ring Video Doorbell Pro 2",
+    "brand": "Ring",
+    "price": 249,
+    "details": {
+      "model": "RVDDBP2",
+      "color": "Black",
+      "release_year": 2021
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "John Doe",
+    "gender": "male",
+    "date_of_birth": "20-08-2001",
+    "primary_contact": {
+      "email": "johndoe@gmail.com",
+      "phone": 9876786545
+    },
+    "address": ["New York", "USA"]
+  },
+  {
+    "name": "Jane Smith",
+    "gender": "female",
+    "date_of_birth": "15-02-1995",
+    "primary_contact": {
+      "email": "janesmith@hotmail.com",
+      "phone": 1234567890
+    },
+    "address": ["London", "UK"]
+  },
+  {
+    "name": "Chen Lin",
+    "gender": "female",
+    "date_of_birth": "01-01-1980",
+    "primary_contact": {
+      "email": "chenlin@qq.com",
+      "phone": 8613579246810
+    },
+    "address": ["Beijing", "China"]
+  },
+  {
+    "name": "Omar Khan",
+    "gender": "male",
+    "date_of_birth": "22-10-1972",
+    "primary_contact": {
+      "email": "omarkhan@gmail.com",
+      "phone": 923012345678
+    },
+    "address": ["Islamabad", "Pakistan"]
+  },
+  {
+    "name": "Maria Garcia",
+    "gender": "female",
+    "date_of_birth": "03-05-1990",
+    "primary_contact": {
+      "email": "mariagarcia@yahoo.com",
+      "phone": 34654321987
+    },
+    "address": ["Madrid", "Spain"]
+  },
+  {
+    "name": "David Schmidt",
+    "gender": "male",
+    "date_of_birth": "18-11-1987",
+    "primary_contact": {
+      "email": "davidschmidt@gmx.de",
+      "phone": 491573982165
+    },
+    "address": ["Berlin", "Germany"]
+  },
+  {
+    "name": "Aisha Patel",
+    "gender": "female",
+    "date_of_birth": "27-09-2003",
+    "primary_contact": {
+      "email": "aishapatel@gmail.com",
+      "phone": 91876543210
+    },
+    "address": ["Mumbai", "India"]
+  },
+  {
+    "name": "Jean Dupont",
+    "gender": "male",
+    "date_of_birth": "14-07-1968",
+    "primary_contact": {
+      "email": "jeandupont@orange.fr",
+      "phone": 336821547390
+    },
+    "address": ["Paris", "France"]
+  },
+  {
+    "name": "Kim Lee",
+    "gender": "female",
+    "date_of_birth": "09-03-1998",
+    "primary_contact": {
+      "email": "kimlee@naver.com",
+      "phone": 821012345678
+    },
+    "address": ["Seoul", "South Korea"]
+  },
+  {
+    "name": "Miguel Rodriguez",
+    "gender": "male",
+    "date_of_birth": "05-12-1985",
+    "primary_contact": {
+      "email": "miguelrodriguez@gmail.com",
+      "phone": 525512345678
+    },
+    "address": ["Mexico City", "Mexico"]
+  }
+]
